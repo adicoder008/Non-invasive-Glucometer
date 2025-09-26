@@ -20,10 +20,11 @@ Through this work, we aim to explore and devise a non-invasive method for glucos
 ## Roadmap
 
 - Electron to Digital singal:
-  ![image alt](https://github.com/adicoder008/Non-invasive-Glucometer/blob/main/project%20pipeline.png?raw=true) 
-
-- Digital signal to data visualiation
   ![image alt](https://github.com/adicoder008/Non-invasive-Glucometer/blob/main/ProjectPipeline2.png?raw=true) 
+  
+- Digital signal to data visualiation
+  ![image alt](https://github.com/adicoder008/Non-invasive-Glucometer/blob/main/project%20pipeline.png?raw=true) 
+  
 
 
 ## 🛠️ Hardware → Software Flow
