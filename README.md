@@ -19,9 +19,11 @@ Through this work, we aim to explore and devise a non-invasive method for glucos
 
 ## Roadmap
 
-- Electron to Digital singal
+- Electron to Digital singal:
+  ![image alt]() 
 
 - Digital signal to data visualiation
+  ![image alt]()
 
 
 ## 🛠️ Hardware → Software Flow
@@ -37,18 +39,12 @@ Through this work, we aim to explore and devise a non-invasive method for glucos
 
 ## Features
 
-- Shows the glucose level through 
-- Live previews
-- Fullscreen mode
+- Shows the glucose levels and its history
 - Cross platform
 
 
-## Sources
-
- - [Research paper-1](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Research paper-2](https://github.com/matiassingers/awesome-readme)
- - [Reasearch paper-3](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
 
 ## 📊 Example Conversion
+
+![image alt]()
 
