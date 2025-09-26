@@ -46,5 +46,5 @@ Through this work, we aim to explore and devise a non-invasive method for glucos
 
 ## 📊 Example Conversion
 
-![image alt]()
+![image alt](https://github.com/adicoder008/Non-invasive-Glucometer/blob/main/Screenshot%202025-09-26%20113002.png?raw=true)
 
